@@ -24,6 +24,16 @@ Atualmente, estou em transição de carreira para o desenvolvimento web, com foc
 <P>Processamento :hourglass_flowing_sand: :hourglass_flowing_sand: :hourglass_flowing_sand:</P>
 <hr>
 
+<p>Outras ferramentas:</p>
+
+<p>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Logo_trello"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Logo_JIRA"/>
+<img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="Logo_VScode"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Logo_notion"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Logo_figma"/>
+</p>
+
 <P> 📈 Estatísticas </P>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Baya29)](https://github.com/stats-organization/github-stats-extended)
