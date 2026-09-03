@@ -24,6 +24,25 @@ Atualmente, estou em transição de carreira para o desenvolvimento web, com foc
 <P>Processamento :hourglass_flowing_sand: :hourglass_flowing_sand: :hourglass_flowing_sand:</P>
 <hr>
 
+<P> 📈 Estatísticas </P>
+
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Baya29)](https://github.com/stats-organization/github-stats-extended)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Baya29&layout=compact)
+
+<p>🌍 Idiomas </p>
+<p>
+- 🇵🇹 Português — Nativo
+- 🇷🇺 Russo — Avançado
+- 🇬🇧 Inglês — Intermediário
+</p>
+
+<p>Contactos</p>
+<a href="https://www.linkedin.com/in/ant%C3%B3nio-matadidi-baya-25324b433/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo_Linkedln"/></a> 
+<a href="https://telegram.me/Eng_AMBfit"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Logo_TELEGRAM"/> </a> 
+<a href="https://wa.link/gr4xk2"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Logo_whatsapp"/>
+</a> <a href="https://telegram.me/Eng_AMBfit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Logo_facebook"/></a>
+
+
+
+
 
